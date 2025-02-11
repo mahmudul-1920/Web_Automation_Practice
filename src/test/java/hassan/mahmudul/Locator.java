@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class Lacators {
+public class Locator {
     WebDriver driver;
 
     @BeforeSuite
